@@ -1,0 +1,19 @@
+Administrator Login:
+Mobile: 8794839604
+Password : gpt123
+
+Collector Login:
+Mobile: 1111111111
+Password : gpt123
+
+Joint Collector(JC) Login:
+Mobile: 2222222222
+Password : gpt123
+
+District Revenue Officer(DRO) Login:
+Mobile: 3333333333
+Password : gpt123
+
+Sample Employee Login:
+Mobile: 9999999999
+Password : gpt123
